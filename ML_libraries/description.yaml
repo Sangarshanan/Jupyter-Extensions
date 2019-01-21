@@ -1,0 +1,10 @@
+Type: Jupyter Notebook Extension
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Name: Default cell
+Main: main.js
+Link: README.md
+Description: |
+  Adds and runs a cell containing most of the useful libraries used in ML competitions .
+
+Parameters:
+- none
