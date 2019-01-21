@@ -1,2 +1,4 @@
-# Jupyter-Extensions-
-Some extensions that I made for jupyter notebook
+# Jupyter Extensions
+
+I :heart: Jupyter Notebooks 
+
