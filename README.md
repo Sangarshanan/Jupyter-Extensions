@@ -2,9 +2,9 @@
 
 Very basic Jupyter extensions 
 
-ML_libraries : Adds a new cell with some commonly used Machine learning libraries
+- ML_libraries : Adds a new cell with some commonly used Machine learning libraries
 
-Delete Cell : Deletes all the selected cells
+- Delete Cell : Deletes all the selected cells
 
 
 ### Installation
