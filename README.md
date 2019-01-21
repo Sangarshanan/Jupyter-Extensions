@@ -24,4 +24,5 @@ Now install the extensions that you just copied to enable them
 ```
 jupyter contrib nbextensions install 
 ```
-Have Fun :)
+
+Credit: https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231
