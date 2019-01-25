@@ -1,6 +1,6 @@
 # Jupyter Extensions
 
-Very basic Jupyter extensions 
+Basic Jupyter extensions 
 
 - ML_libraries : Adds a new cell with some commonly used Machine learning libraries
 
